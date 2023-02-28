@@ -142,7 +142,7 @@ topLeft.addEventListener('click', (event) => {
     if(!win) {
       setTimeout(() => {
         clearColor();
-      }, 300);
+      }, 100);
     }
   }
 })
@@ -155,7 +155,7 @@ topRight.addEventListener('click', (event) => {
     if(!win) {
       setTimeout(() => {
         clearColor();
-      }, 300);
+      }, 100);
     }
   }
 })
@@ -168,7 +168,7 @@ bottomLeft.addEventListener('click', (event) => {
     if(!win) {
       setTimeout(() => {
         clearColor();
-      }, 300);
+      }, 100);
     }
   }
 })
@@ -181,7 +181,7 @@ bottomRight.addEventListener('click', (event) => {
     if(!win) {
       setTimeout(() => {
         clearColor();
-      }, 300);
+      }, 100);
     }
   }
 })
